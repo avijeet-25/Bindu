@@ -34,6 +34,15 @@
   <a href="https://docs.getbindu.com"><img src="https://img.shields.io/badge/Documentation-📕-blue" alt="Documentation"></a>
   <a href="https://github.com/getbindu/Bindu/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
   <a href="https://github.com/getbindu/Bindu/stargazers"><img src="https://img.shields.io/github/stars/getbindu/Bindu" alt="GitHub stars"></a>
+  <a href="https://github.com/getbindu/Bindu/network/members"><img src="https://img.shields.io/github/forks/getbindu/Bindu" alt="GitHub forks"></a>
+  <a href="https://github.com/getbindu/Bindu/watchers"><img src="https://img.shields.io/github/watchers/getbindu/Bindu" alt="GitHub watchers"></a>
+  <a href="https://github.com/getbindu/Bindu/issues"><img src="https://img.shields.io/github/issues/getbindu/Bindu" alt="GitHub issues"></a>
+  <a href="https://github.com/getbindu/Bindu/pulls"><img src="https://img.shields.io/github/issues-pr/getbindu/Bindu" alt="GitHub pull requests"></a>
+  <a href="https://github.com/getbindu/Bindu/commits/main"><img src="https://img.shields.io/github/commit-activity/m/getbindu/Bindu" alt="Commit activity"></a>
+  <a href="https://github.com/getbindu/Bindu/commits/main"><img src="https://img.shields.io/github/last-commit/getbindu/Bindu" alt="Last commit"></a>
+  <a href="https://github.com/getbindu/Bindu/graphs/contributors"><img src="https://img.shields.io/github/contributors/getbindu/Bindu" alt="Contributors"></a>
+  <a href="https://github.com/getbindu/Bindu"><img src="https://img.shields.io/github/repo-size/getbindu/Bindu" alt="Repo size"></a>
+  <a href="https://github.com/getbindu/Bindu/releases"><img src="https://img.shields.io/github/v/release/getbindu/Bindu" alt="Latest release"></a>
 </p>
 
 ---
